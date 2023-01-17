@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e195552-7ffb-4d86-ab36-cf0d6042fc0b" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/Chessnt.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <workItem from="1673995051535" duration="418000" />
       <workItem from="1673995495920" duration="881000" />
       <workItem from="1673996418205" duration="603000" />
-      <workItem from="1673997024660" duration="417000" />
+      <workItem from="1673997024660" duration="757000" />
     </task>
     <task id="LOCAL-00001" summary="Added Game page">
       <created>1673995700621</created>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673997190725</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit">
+      <created>1673997451494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673997451494</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
