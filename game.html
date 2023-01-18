@@ -5,32 +5,34 @@
     #chessboard {
       width: 400px;
       height: 400px;
+      margin: auto;
     }
     .chess-square {
       float: left;
       width: 48px;
-      border: 1px solid black;
+      border: 1px solid #000000;
       height: 48px;
       background-color: #fff;
     }
   </style>
-  <meta charset="UTF-8">
-  <title>Title</title>
+<meta charset="UTF-8">
+<title>Chessn't</title>
 </head>
 <body>
-<div id="chessboard"></div>
-<script>
-  var chessboard = document.getElementById('chessboard');
-  for (var i = 0; i < 8; i++) {
-    for (var j = 0; j < 8; j++) {
-      var chessSquare = document.createElement('div');
-      chessSquare.className = 'chess-square';
-      if ((i + j) % 2 == 0) {
-        chessSquare.style.backgroundColor = '#000';
+  <div style="text-align: center;">Chessn't</div>
+  <div id="chessboard"></div>
+  <script>
+    var chessboard = document.getElementById('chessboard');
+    for (var i = 0; i < 8; i++) {
+      for (var j = 0; j < 8; j++) {
+        var chessSquare = document.createElement('div');
+        chessSquare.className = 'chess-square';
+        if ((i + j) % 2 == 0) {
+          chessSquare.style.backgroundColor = '#000';
+        }
+        chessboard.appendChild(chessSquare);
       }
-      chessboard.appendChild(chessSquare);
     }
-  }
-</script>
+  </script>
 </body>
 </html>

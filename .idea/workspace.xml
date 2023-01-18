@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e195552-7ffb-4d86-ab36-cf0d6042fc0b" name="Changes" comment="Fixing index">
+    <list default="true" id="8e195552-7ffb-4d86-ab36-cf0d6042fc0b" name="Changes" comment="Linking to Game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
     </list>
     <list id="e57859af-53bf-4a34-b600-0c651f72fc19" name="Changes by chris" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +71,7 @@
       <workItem from="1673995051535" duration="418000" />
       <workItem from="1673995495920" duration="881000" />
       <workItem from="1673996418205" duration="603000" />
-      <workItem from="1673997024660" duration="2547000" />
+      <workItem from="1673997024660" duration="5105000" />
     </task>
     <task id="LOCAL-00001" summary="Added Game page">
       <created>1673995700621</created>
@@ -135,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673998603002</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Linking to Game">
+      <created>1673999619051</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673999619051</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +165,7 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="404 Message" />
     <MESSAGE value="Fixing index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing index" />
+    <MESSAGE value="Linking to Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linking to Game" />
   </component>
 </project>
