@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e195552-7ffb-4d86-ab36-cf0d6042fc0b" name="Changes" comment="improved menu">
+      <change afterPath="$PROJECT_DIR$/campaign.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="e57859af-53bf-4a34-b600-0c651f72fc19" name="Changes by chris" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,14 +18,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -126,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673998164974</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="improved menu">
+      <created>1674002459594</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674002459594</updated>
+    </task>
+    <task id="LOCAL-00010" summary="improved menu">
+      <created>1674002486521</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674002486521</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +163,7 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="404 Message" />
     <MESSAGE value="Fixing index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing index" />
+    <MESSAGE value="improved menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved menu" />
   </component>
 </project>
