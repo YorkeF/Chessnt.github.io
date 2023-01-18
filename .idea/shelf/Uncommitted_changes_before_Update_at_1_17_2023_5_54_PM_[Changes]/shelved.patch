@@ -1,0 +1,113 @@
+Index: style.css
+===================================================================
+diff --git a/style.css b/style.css
+deleted file mode 100644
+--- a/style.css	(revision 4feb231ed9704129b5092924beef907c3c4d4218)
++++ /dev/null	(revision 4feb231ed9704129b5092924beef907c3c4d4218)
+@@ -1,3 +0,0 @@
+-.center{
+-    
+-}
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8e195552-7ffb-4d86-ab36-cf0d6042fc0b\" name=\"Changes\" comment=\"Fixing index\">\r\n      <change afterPath=\"$PROJECT_DIR$/style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <list id=\"e57859af-53bf-4a34-b600-0c651f72fc19\" name=\"Changes by chris\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2KR86P3XELKPhFF33C9zRxWMkut\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"list.type.of.created.stylesheet\": \"CSS\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"$PROJECT_DIR$\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8e195552-7ffb-4d86-ab36-cf0d6042fc0b\" name=\"Changes\" comment=\"\" />\r\n      <created>1673925860222</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1673925860222</updated>\r\n      <workItem from=\"1673927067392\" duration=\"51000\" />\r\n      <workItem from=\"1673995051535\" duration=\"418000\" />\r\n      <workItem from=\"1673995495920\" duration=\"881000\" />\r\n      <workItem from=\"1673996418205\" duration=\"603000\" />\r\n      <workItem from=\"1673997024660\" duration=\"1557000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Added Game page\">\r\n      <created>1673995700621</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1673995700621</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Commit\">\r\n      <created>1673996625102</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1673996625102</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Commit\">\r\n      <created>1673996879807</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1673996879807</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Commit\">\r\n      <created>1673997120332</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1673997120332</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Commit\">\r\n      <created>1673997190725</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1673997190725</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Commit\">\r\n      <created>1673997451494</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1673997451494</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"404 Message\">\r\n      <created>1673997798633</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1673997798633</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Fixing index\">\r\n      <created>1673998164974</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1673998164974</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Added Game page\" />\r\n    <MESSAGE value=\"Commit\" />\r\n    <MESSAGE value=\"404 Message\" />\r\n    <MESSAGE value=\"Fixing index\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Fixing index\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4feb231ed9704129b5092924beef907c3c4d4218)
++++ b/.idea/workspace.xml	(date 1673999487962)
+@@ -4,12 +4,11 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8e195552-7ffb-4d86-ab36-cf0d6042fc0b" name="Changes" comment="Fixing index">
+-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
++    <list default="true" id="8e195552-7ffb-4d86-ab36-cf0d6042fc0b" name="Changes" comment="404 Message">
++      <change afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+     </list>
+-    <list id="e57859af-53bf-4a34-b600-0c651f72fc19" name="Changes by chris" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -19,7 +18,6 @@
+     <option name="RECENT_TEMPLATES">
+       <list>
+         <option value="HTML File" />
+-        <option value="CSS File" />
+       </list>
+     </option>
+   </component>
+@@ -37,21 +35,19 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "codeWithMe.voiceChat.enabledByDefault": "false",
+-    "list.type.of.created.stylesheet": "CSS",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$" />
+@@ -69,7 +65,7 @@
+       <workItem from="1673995051535" duration="418000" />
+       <workItem from="1673995495920" duration="881000" />
+       <workItem from="1673996418205" duration="603000" />
+-      <workItem from="1673997024660" duration="1557000" />
++      <workItem from="1673997024660" duration="1047000" />
+     </task>
+     <task id="LOCAL-00001" summary="Added Game page">
+       <created>1673995700621</created>
+@@ -120,14 +116,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1673997798633</updated>
+     </task>
+-    <task id="LOCAL-00008" summary="Fixing index">
+-      <created>1673998164974</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1673998164974</updated>
+-    </task>
+-    <option name="localTasksCounter" value="9" />
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -148,7 +137,6 @@
+     <MESSAGE value="Added Game page" />
+     <MESSAGE value="Commit" />
+     <MESSAGE value="404 Message" />
+-    <MESSAGE value="Fixing index" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Fixing index" />
++    <option name="LAST_COMMIT_MESSAGE" value="404 Message" />
+   </component>
+ </project>
+\ No newline at end of file
